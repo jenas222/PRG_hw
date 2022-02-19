@@ -12,6 +12,8 @@ float radToDeg(float radian){
     return (radian*180 / M_PI);
 }
 
+//Testujeme github
+
 int main() {
   printf("uhel [st] | uhel [rad]\t | sin\t\t | cos\n");
     for(int i = 0; i<=360; i+= 30){
